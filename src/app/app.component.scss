@@ -1,0 +1,23 @@
+.main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .btn1 {
+        background-color: #28a745;
+        color: #FFF;
+        padding: 10px 30px;
+        border-radius: 8px;
+        font-weight: 600;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+    .btn2 {
+        background-color: rgb(29, 161, 242);
+        color: #FFF;
+        padding: 10px 30px;
+        border-radius: 8px;
+        font-weight: 600;
+        cursor: pointer;
+    }
+}
